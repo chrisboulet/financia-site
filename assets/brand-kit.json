@@ -1,0 +1,98 @@
+{
+  "name": "FINANCIA",
+  "overview": "FINANCIA offers comprehensive financial planning services covering investments, retirement, insurance, and taxation. They help individuals and businesses optimize their financial situation while ensuring protection for family and employees. Services include various placements, life and health insurance, and detailed financial and estate planning.",
+  "websiteUrl": "https://www.financia.info/",
+  "brandValues": ["Protection", "Optimization", "Planning"],
+  "visualAesthetics": ["high-contrast", "modern/digital", "bold confidence", "minimalist layout", "energetic professionalism"],
+  "toneOfVoice": ["Professional", "Informative", "Authoritative", "Formal"],
+  "fonts": ["inter tight"],
+  "campaigns": [{
+    "creatives": [{
+      "title": "Financial Uncertainty Weighs You Down?",
+      "versions": [{
+        "fileName": "resource_8tJFMntFlWRcHyMHG9B_ou.png"
+      }]
+    }, {
+      "title": "Transform Anxiety into Confidence",
+      "versions": [{
+        "fileName": "resource_8HycaB-K9Ap51UlcRmD4oQ.png"
+      }]
+    }, {
+      "title": "Master Your Financial Future",
+      "versions": [{
+        "fileName": "resource_8dGxYQsbzCYe71JOZYD4Az.png"
+      }]
+    }, {
+      "title": "Secure Your Legacy with FINANCIA",
+      "versions": [{
+        "fileName": "resource_ahfz3RXj75I1NAM2gkA4j4.png"
+      }]
+    }]
+  }, {
+    "creatives": [{
+      "title": "L\u0027incertitude financière?",
+      "versions": [{
+        "fileName": "resource_bkhAdotEb3p0CcSo31x4-r.png"
+      }]
+    }, {
+      "title": "La Confiance Financière. Absolue.",
+      "versions": [{
+        "fileName": "resource_8rj1LFni6fG6xkT6i5lki3.png"
+      }]
+    }, {
+      "title": "Votre futur, sans complexité.",
+      "versions": [{
+        "fileName": "resource_81biYuoKJ9y8n2hkHKU__Z.png"
+      }]
+    }, {
+      "title": "FINANCIA: L\u0027autorité en protection.",
+      "versions": [{
+        "fileName": "resource_bGrlyw9RaYte7SEibwAOCb.png"
+      }]
+    }]
+  }, {
+    "creatives": [{
+      "title": "REER: Le Blitz Final Arrive.",
+      "versions": [{
+        "fileName": "resource_8ADCWnSsyYh0mXxaATv_Iu.png"
+      }]
+    }, {
+      "title": "Votre Stratégie REER: Planifiée?",
+      "versions": [{
+        "fileName": "resource_9ah_QCSJLa_fSavTNCBOo1.png"
+      }]
+    }, {
+      "title": "Maximiser votre Contribution",
+      "versions": [{
+        "fileName": "resource_8B3laiLjbkne6Zd30QiOck.png"
+      }]
+    }, {
+      "title": "Agissez Avant Qu\u0027il Soit Trop Tard",
+      "versions": [{
+        "fileName": "resource_bkXbRyxFnzs11MkOdmx4Bx.png"
+      }]
+    }]
+  }, {
+    "creatives": [{
+      "title": "The 2 Pillars of Your Future.",
+      "versions": [{
+        "fileName": "resource_9aBt2Opzyj49ithVsFOOaI.png"
+      }]
+    }, {
+      "title": "Pillar 1: Protection.",
+      "versions": [{
+        "fileName": "resource_b-i8pL9KQFR0Roz62uukeI.png"
+      }]
+    }, {
+      "title": "Pillar 2: Optimization.",
+      "versions": [{
+        "fileName": "resource_apYzakQsZQ-fuFyeMT8kai.png"
+      }]
+    }, {
+      "title": "Protection and Optimization: Simplified.",
+      "versions": [{
+        "fileName": "resource_9_-tWa8YC298E4f3y3JkG4.png"
+      }]
+    }]
+  }]
+}
